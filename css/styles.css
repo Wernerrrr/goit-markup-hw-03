@@ -55,6 +55,7 @@ button {
 
 .header {
   background-color: var(--white);
+  border-bottom: var(--whisper) 1px solid;
 }
 
 .header .container {
@@ -331,6 +332,7 @@ button {
   letter-spacing: 0.03em;
   text-align: left;
   padding: 20px 24px;
+  border: var(--whisper2) 1px solid;
 }
 
 .portfolio__projects span {
@@ -345,8 +347,6 @@ button {
   border: var(--white-ghost) solid;
   border-radius: 1px;
   border-width: 1px;
-  min-width: 370px;
-  max-height: 404px;
 }
 
 .container {
